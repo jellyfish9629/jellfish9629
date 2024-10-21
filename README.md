@@ -3,6 +3,9 @@
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Developer +11 years Exp</h3>
 
+<p align="center">
+  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
+</p>
 </div>
 - 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
