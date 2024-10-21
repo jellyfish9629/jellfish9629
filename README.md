@@ -96,14 +96,3 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
 <img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
 <h1 align="center"></h1>
-
-
-
-<h3 align="left">Support:</h3>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftknight&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NFTknight&show_icons=true&locale=en" alt="NFTknight" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NFTknight&" alt="NFTknight" /></p>
