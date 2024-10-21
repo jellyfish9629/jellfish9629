@@ -2,32 +2,6 @@
 
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Developer +11 years Exp</h3>
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
-
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-
-### DApps & Online Betting Website
-
-  <br />
-
-### Crypto Trading Platforms & Bots
-
-  <br />
-
-### Website and Mobile application
-
-  <br />
-
-### Video Conference Web & Mobile application
-
-  <br />
-  
-  ### SaaS/CRM/CMS/E-Commerce Web & Mobile application
-  <br />
-  
-  ### 2D / 3D Unity Game & application
-  <br />
 
 </div>
 - 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
